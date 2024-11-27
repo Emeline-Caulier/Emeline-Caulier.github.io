@@ -19,7 +19,7 @@ li{
 #menudenavigation a:hover{
     background-color: aliceblue;
     color: rgb(45, 45, 134);
-    transform: scale(2);
+    padding: 20px 40px 20px 40px;
 }
 
 #menudenavigation li a{
